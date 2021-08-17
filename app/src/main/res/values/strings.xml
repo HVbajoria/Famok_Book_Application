@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Book Application</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="Navigation_menu_des">Navigation Menu Logo</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer"</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favourite_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="instagram"><a href="https://www.instagram.com/harshavardhanbajoria">Instagram</a></string>
+    <string name="linkedin"><a href ="https://www.linkedin.com/in/harshavardhan-bajoria">LinkedIn</a></string>
+    <string name="github"><a href = "https://github.com/HVbajoria">GitHub</a></string>
+    <string name="gives_book_image">Gives Book Image</string>
+    <string name="name_of_the_author">Name of the author</string>
+    <string name="name_of_the_book">Name of the book</string>
+    <string name="rs_299">Rs 299</string>
+    <string name="about_the_book">About The Book :</string>
+    <string name="hello_blank">Hello Blank Fragment</string>
+    <string name="logo_of_the_app">Logo of the app</string>
+    <string name="aboutapp_description">An app made for all the book lovers !! \n Get your favourite books at one place with just a click. Amazing, best and your favourite anytime and anywhere.</string>
+    <string name="hope_you_all_will_enjoy">Hope You All Will Enjoy !!</string>
+    <string name="my_image">My Image</string>
+    <string name="harshavardhan_bajoria">Harshavardhan Bajoria</string>
+    <string name="profile_description">Harshavardhan Bajoria is a team player, with a strong commitment to customer service and excellence in quality standards, love to learn new skills and grow each day.\n He is seeking a position in a fast-paced and challenging environment that will enable him to use his strong organizational skills, educational background and ability to work well with people to innovate for the future.</string>
+    <string name="to_connect_with_him">To Connect With Him :</string>
+    <string name="linkedin_image">Linkedin Image</string>
+    <string name="github_image">github image</string>
+    <string name="instagram_image">instagram Image</string>
+    <string name="book_cover_image">Book Cover Image</string>
+    <string name="hello_world">Hello World</string>
+    <string name="android_inc">Android Inc.</string>
+    <string name="rs_499">Rs. 499</string>
+    <string name="_4_5">4.5</string>
+    <string name="sort">Sort</string>
+</resources>

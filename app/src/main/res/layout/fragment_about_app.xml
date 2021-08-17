@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.AboutAppFragment">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        android:src="@drawable/logo_image"
+        android:padding="8dp"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@string/logo_of_the_app" />
+
+    <TextView
+        android:id="@+id/txtaboutapp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/aboutapp_description"
+        android:textSize="18sp"
+        android:padding="10dp"
+        android:layout_below="@id/logo"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="5dp"
+        android:textColor="#000000"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hope_you_all_will_enjoy"
+        android:padding="11dp"
+        android:layout_marginEnd="3dp"
+        android:layout_centerHorizontal="true"
+        android:textColor="#1323B6"
+        android:textSize="21sp"
+        android:textStyle="bold|italic"
+        android:layout_below="@id/txtaboutapp"
+        />
+
+</RelativeLayout>
